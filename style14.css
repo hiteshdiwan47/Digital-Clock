@@ -1,0 +1,24 @@
+/* styles.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #0c0d03e6;
+    font-family: 'Arial', sans-serif;
+}
+
+.watch {
+    background-color: #f4a90765;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(231, 243, 3, 0.884);
+    text-align: center;
+}
+
+#time {
+    font-size: 48px;
+    color: #150202;
+    font-family: 'Courier New', monospace;
+}
